@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are the Hope Techs programming Team</h1>
-<h3 align="center">A passionate team of dot network and artificial intelligence developers</h3>
+<h3 align="center">A passionate team of dot net and artificial intelligence developers</h3>
 
 - 👨‍💻 All of my projects are available at [https://hopeTechs.ir/projects](https://hopeTechs.ir/projects)
 
