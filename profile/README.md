@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, We are the Hope Techs programming Team</h1>
-<h3 align="center">A passionate team of dot net and artificial intelligence developers</h3>
+<h1 align="center">Hi 👋, We are the Hope Technologies</h1>
 
-- 👨‍💻 All of my projects are available at [https://hopeTechs.ir/projects](https://hopeTechs.ir/projects)
+- 👨‍💻 Most of our projects are available at [https://hope-techs.com/projects](https://hopeTechs.ir/projects)
 
-- 📝 I regularly write articles on [https://hopeTechs.ir/blog](https://hopeTechs.ir/blog)
+- 📝 we do regularly write articles on [https://hope-techs.com/blog](https://hopeTechs.ir/blog)
 
-- 💬 Ask me about **anything**
+- 💬 Ask us about **anything**
 
-- 📫 How to reach me **info@hopeTechs.ir**
+- 📫 How to reach us **info@hope-techs.com**
 
-- 📄 Know about my experiences [https://hopeTechs.ir/resume](https://hopeTechs.ir/resume)
+- 📄 Know about my experiences [https://hope-techs.com/resume](https://hopeTechs.ir/resume)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/hope-techs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hope-techs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hope-techs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hope-techs" height="30" width="40" /></a>
