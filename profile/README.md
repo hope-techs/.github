@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We are the Hope Technologies</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 👨‍💻 Most of our projects are available at [https://hope-techs.com/projects](https://hopeTechs.ir/projects)
 
